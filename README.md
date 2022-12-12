@@ -1,7 +1,7 @@
 * This is the README for the robot program
 
 - Currently the code has issues running from main. These need to be fixed for the program to work correctly.
-- The surface of the table is created from the surface.rb code. Currently the surface is drawn using printf but this needs to be changed
+- The surface of the table is created from the surface.rb code. Currently the surface is drawn using print() but this needs to be changed
 - The input command is validated by the validator.rb class.
 - The robot is created and moved using the robot.rb class
 - The test.rb class contains what is working and tested so far. The program, however, needs to work correctly from main.rb and the issues need to be fixed
